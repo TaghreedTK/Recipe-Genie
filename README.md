@@ -1,4 +1,4 @@
-# Recipe-Geniefood
+# Recipe-Genie
 
 A new Flutter project.
 
